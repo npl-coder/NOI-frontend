@@ -1,0 +1,25 @@
+/* Navbar Styles */
+.nav {
+    background-color: #0056b3; /* Darker blue color */
+    padding: 10px 0; /* Improved padding */
+    text-align: center;
+}
+
+.nav ul {
+    list-style-type: none;
+}
+
+.nav ul li {
+    display: inline; /* Horizontally align the items */
+    margin: 0 15px; /* Reduced spacing between items */
+}
+
+.nav ul li a {
+    color: white; /* Text color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make links stand out */
+}
+
+.nav ul li a:hover {
+    text-decoration: underline; /* Underline on hover */
+}

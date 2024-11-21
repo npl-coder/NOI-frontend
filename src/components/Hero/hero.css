@@ -1,0 +1,39 @@
+/* Hero Section Styles */
+.hero {
+    background-image: url('path_to_your_image.jpg'); /* Add a background image */
+    background-size: cover; /* Cover the entire section */
+    color: blue; /* Change text color to blue */
+    text-align: center;
+    padding: 80px 20px; /* Add vertical spacing, reduced horizontal padding */
+    margin: 20px auto; /* Increased margin for spacing */
+    max-width: 90%; /* Stretch sections wider */
+    background-color: #fff; /* White background for sections */
+    border-radius: 8px; /* Rounded corners for sections */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.hero h1 {
+    font-size: 2.5em; /* Large font size for emphasis */
+    margin-bottom: 10px;
+}
+
+.hero h3 {
+    margin-bottom: 15px; /* Space below the subheading */
+}
+
+.hero p {
+    font-size: 1.2em; /* Slightly larger text for readability */
+}
+
+.hero button {
+    background-color: #FF5733; /* Orange button color */
+    color: white; /* Text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px; /* Rounded corners for buttons */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+.hero button:hover {
+    background-color: #e85d24; /* Darken on hover */
+}
