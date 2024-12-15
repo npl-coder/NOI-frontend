@@ -1,8 +1,9 @@
 import React from "react";
+import "./getInvolved.css";
 
 const GetInvolved = () => {
   return (
-    <div id="get-involved">
+    <div className="get-involved">
       <h2>Get Involved</h2>
       <p>
         Everyone can make a difference. Whether you&appos;re interested in mentoring,
