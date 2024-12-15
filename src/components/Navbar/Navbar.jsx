@@ -4,10 +4,10 @@ const Navbar = () => {
   return (
     <div className='nav'>
         <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="noi.html">NOI</a></li>
-        <li><a href="about.html">About Us</a></li>
-        <li><a href="community.html">Get Invovled</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="https://www.hackerrank.com/npl-coder">NOI</a></li>
+        <li><a href="https://nplcoder.org/team">About Us</a></li>
+        <li><a href="https://nplcoder.org">Get Invovled</a></li>
     </ul>
     </div>
   )
