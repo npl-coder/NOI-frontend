@@ -1,0 +1,31 @@
+.mission {
+    padding: 40px; /* Increased padding for better spacing */
+    margin: 20px auto; /* Increased margin for spacing */
+    max-width: 90%; /* Stretch sections wider */
+    background-color: #fff; /* White background for sections */
+    border-radius: 8px; /* Rounded corners for sections */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+h2 {
+    color: #0056b3; /* Use the darker blue */
+    margin-bottom: 15px; /* Space below the heading */
+}
+
+h3 {
+    color: #003d80; /* Slightly darker color for subsections */
+    margin: 15px 0; /* Space above and below subsections */
+}
+
+button {
+    background-color: #0056b3; /* Consistent button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #003d80; /* Darken button on hover */
+}
